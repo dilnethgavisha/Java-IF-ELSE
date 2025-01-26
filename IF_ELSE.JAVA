@@ -10,6 +10,12 @@ public class IF_ELSE{
         } else {
             System.out.println("x is not greater than y");
         }
-        
+        int u =20;
+        String name = "True";
+        if (u == 10){
+            System.out.println(name);
+        } else {
+            System.out.println("x is not equal to 10");
+        }
     }
 }
